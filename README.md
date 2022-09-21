@@ -57,7 +57,7 @@ $ npm run test:cov
 
 ## CHANGELOG HISTORY
 
-[CHANGELOG](https://github.com/BuGalter/)
+[CHANGELOG](https://github.com/BuGalter/api-management-service/blob/develop/CHANGELOG.md)
 
 ## Authors
 
